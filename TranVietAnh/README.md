@@ -1,5 +1,5 @@
 
-  # E-commerce landing page design
+  # Vjp
 
   This is a code bundle for E-commerce landing page design. The original project is available at https://www.figma.com/design/dNOKQBZI5Bzc6SR79pfTy5/E-commerce-landing-page-design.
 
